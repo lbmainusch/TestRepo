@@ -7,8 +7,7 @@
 #include <string>
 #include <iostream>
 
-//Product class//
-//Testing the constructor
+
 TEST(ProductConst, Test1) {
 	Product p1;
 	ASSERT_EQ("",p1.getName());
