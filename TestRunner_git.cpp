@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "TestRunner.h"
+#include "TestRunner_git.h"
 #include "../Product.h"
 #include "../UnpackedFood.h"
 #include "../PrepackedFood.h"
